@@ -21,5 +21,8 @@
     <ClCompile Include="002_RefSample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="003_ConstructorOver2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
